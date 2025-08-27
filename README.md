@@ -114,3 +114,10 @@ npm run dev
 ```
 
 </details>
+
+## <a name="links">🔗 Links</a>
+
+- **Arcjet** - [https://launch.arcjet.com/4g2R2e4](https://launch.arcjet.com/4g2R2e4)  
+- **Upstash** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
+- **Hostinger** - [https://hostinger.com/mastery10](https://hostinger.com/mastery10)  
+- **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)  
